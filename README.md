@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nipez
+- 👀 I’m interested in Discord.js
+- 🌱 I’m currently learning a lot
+- 📫 How to reach me 
